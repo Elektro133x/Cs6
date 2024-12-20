@@ -29,4 +29,20 @@ public class TaskManager
             Console.WriteLine("Неверный индекс.");
         }
     }
+
+    public void ViewTasks()
+    {
+        if (tasks.Count == 0)
+        {
+            Console.WriteLine("Список задач пуст.");
+        }
+        else
+        {
+            Console.WriteLine("Список задач:");
+            for (int i = 0; i < tasks.Count; i++)
+            {
+                Console.WriteLine($"{i}. {tasks[i]}")
+            }
+        }
+    }
 }
