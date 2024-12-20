@@ -27,7 +27,10 @@ class Program
                     {
                         Console.WriteLine("Некорректный ввод.");
                     }
-                    break;    
+                    break;
+                case "view":
+                    manager.ViewTasks();
+                    break;        
                 case "exit":
                     return;
                 default:
