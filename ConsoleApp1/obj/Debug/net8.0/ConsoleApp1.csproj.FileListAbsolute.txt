@@ -1,0 +1,15 @@
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\infinix\OneDrive\Рабочий стол\Cs6\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

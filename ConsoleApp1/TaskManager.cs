@@ -41,7 +41,7 @@ public class TaskManager
             Console.WriteLine("Список задач:");
             for (int i = 0; i < tasks.Count; i++)
             {
-                Console.WriteLine($"{i}. {tasks[i]}")
+                Console.WriteLine($"{i}. {tasks[i]}");
             }
         }
     }
