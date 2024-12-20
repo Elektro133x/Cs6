@@ -1,4 +1,3 @@
-
 using System;
 
 class Program
@@ -18,6 +17,17 @@ class Program
                     Console.WriteLine("Введите задачу:");
                     manager.AddTask(Console.ReadLine());
                     break;  
+                case "delete":
+                    Console.WriteLine("Введите индекс задачи для удаления:");
+                    if (int.TryParse(Console.ReadLine(), out int index))
+                    {
+                        manager.RemoveTask(index);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Некорректный ввод.");
+                    }
+                    break;    
                 case "exit":
                     return;
                 default:
