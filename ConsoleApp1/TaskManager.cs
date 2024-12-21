@@ -4,12 +4,14 @@ using System.Collections.Generic;
 public class TaskManager
 {
     private List<string> tasks = new List<string>();
+    private List<string> difficulties = new List<string>();
 
-    public void AddTask(string task)
+    public void AddTask(string task, string difficulty)
     {
         if (!string.IsNullOrWhiteSpace(task))
         {
             tasks.Add(task);
+            difficulties.Add(difficulty);
             Console.WriteLine("Задача добавлена!");
         }
         else
@@ -22,6 +24,7 @@ public class TaskManager
     {
         if (index >= 0 && index < tasks.Count) {
             tasks.RemoveAt(index);
+            difficulties.RemoveAt(index);
             Console.WriteLine("Задача удалена!");
         }
         else
@@ -41,7 +44,7 @@ public class TaskManager
             Console.WriteLine("Список задач:");
             for (int i = 0; i < tasks.Count; i++)
             {
-                Console.WriteLine($"{i}. {tasks[i]}");
+                Console.WriteLine($"{i}. {tasks[i]}: {difficulties[i]}");
             }
         }
     }

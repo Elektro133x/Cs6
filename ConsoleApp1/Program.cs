@@ -15,7 +15,13 @@ class Program
             {
                 case "add":
                     Console.WriteLine("Введите задачу:");
-                    manager.AddTask(Console.ReadLine());
+                    string name = Console.ReadLine();
+
+                    Console.WriteLine("Укажите сложность:");
+                    string difficulty = Console.ReadLine();
+                    
+                    manager.AddTask(name, difficulty);
+
                     break;  
                 case "delete":
                     Console.WriteLine("Введите индекс задачи для удаления:");
